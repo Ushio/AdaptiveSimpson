@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Adaptive_Simpson%27s_method
 ## demo
 ![demo](demo.gif)
 
+## analytic solve
+http://www.wolframalpha.com/input/?i=Integral%5B(14x+-+11x%5E2)+exp(-2x),+x%5D
+
 ## dependency
 openframeworks 0.10.0
 
